@@ -1,0 +1,17 @@
+[
+    {
+        "providerID": "route53",
+        "displayName": "Amazon AWS Route 53",
+        "url": "https://aws.amazon.com/route53/"
+    },
+    {
+        "providerID": "cloudflare",
+        "displayName": "Cloudflare DNS",
+        "url": "https://www.cloudflare.com/dns/"
+    },
+    {
+        "providerID": "akamai",
+        "displayName": "Akamai Edge DNS",
+        "url": "https://www.akamai.com/products/edge-dns"
+    }
+]
