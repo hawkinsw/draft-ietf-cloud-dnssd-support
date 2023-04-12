@@ -2,7 +2,8 @@
     {
         "providerID": "route53",
         "displayName": "Amazon AWS Route 53",
-        "url": "https://aws.amazon.com/route53/"
+        "url": "https://aws.amazon.com/route53/",
+	"supported": true
     },
     {
         "providerID": "cloudflare",
