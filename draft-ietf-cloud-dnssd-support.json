@@ -7,7 +7,9 @@
     {
         "providerID": "cloudflare",
         "displayName": "Cloudflare DNS",
-        "url": "https://www.cloudflare.com/dns/"
+        "url": "https://www.cloudflare.com/dns/",
+	"supported": false,
+	"reason": "Does not allow instance name in SRV record."
     },
     {
         "providerID": "akamai",
