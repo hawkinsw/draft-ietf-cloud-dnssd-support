@@ -3,18 +3,19 @@
         "providerID": "route53",
         "displayName": "Amazon AWS Route 53",
         "url": "https://aws.amazon.com/route53/",
-	"supported": true
+        "supported": true
     },
     {
         "providerID": "cloudflare",
         "displayName": "Cloudflare DNS",
         "url": "https://www.cloudflare.com/dns/",
-	"supported": false,
-	"reason": "Does not allow instance name in SRV record."
+        "reason": "Does not allow instance name in SRV record.",
+        "supported": false
     },
     {
         "providerID": "akamai",
         "displayName": "Akamai Edge DNS",
-        "url": "https://www.akamai.com/products/edge-dns"
+        "url": "https://www.akamai.com/products/edge-dns",
+        "supported": true
     }
 ]
