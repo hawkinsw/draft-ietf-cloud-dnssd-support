@@ -17,5 +17,12 @@
         "displayName": "Akamai Edge DNS",
         "url": "https://www.akamai.com/products/edge-dns",
         "supported": true
+    },
+    {
+        "providerID": "1984",
+        "displayName": "1984 Hosting Company",
+        "url": "https://1984.hosting/product/freedns/",
+        "supported": false,
+	"reason": "Instance names must begin with an _."
     }
 ]
