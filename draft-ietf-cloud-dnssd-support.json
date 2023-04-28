@@ -24,5 +24,11 @@
         "url": "https://1984.hosting/product/freedns/",
         "supported": false,
 	"reason": "Instance names must begin with an _."
+    },
+    {
+        "providerID": "google",
+        "displayName": "Google Cloud DNS",
+        "url": "https://cloud.google.com/dns",
+        "supported": true
     }
 ]
