@@ -3,6 +3,7 @@
         "providerID": "route53",
         "displayName": "Amazon AWS Route 53",
         "url": "https://aws.amazon.com/route53/",
+	"asof": "Wed Apr 12 07:49:20 2023 -0400",
         "supported": true
     },
     {
@@ -10,12 +11,14 @@
         "displayName": "Cloudflare DNS",
         "url": "https://www.cloudflare.com/dns/",
         "reason": "Does not allow instance name in SRV record.",
+	"asof": "Wed Apr 12 07:42:36 2023",
         "supported": false
     },
     {
         "providerID": "akamai",
         "displayName": "Akamai Edge DNS",
         "url": "https://www.akamai.com/products/edge-dns",
+	"asof": "Wed Apr 19 11:53:45 2023 -0400",
         "supported": true
     },
     {
@@ -23,12 +26,14 @@
         "displayName": "1984 Hosting Company",
         "url": "https://1984.hosting/product/freedns/",
         "supported": false,
+	"asof": "Fri Apr 21 12:31:49 2023 -0400",
 	"reason": "Instance names must begin with an _."
     },
     {
         "providerID": "google",
         "displayName": "Google Cloud DNS",
         "url": "https://cloud.google.com/dns",
+	"asof": "Fri Apr 28 07:41:39 2023 -0400",
         "supported": true
     }
 ]
